@@ -5,3 +5,7 @@ TASK:
 
 
 Make a neumorphism calculator using html and css.
+
+
+Note:
+For more details -> read the Documentation.pdf
